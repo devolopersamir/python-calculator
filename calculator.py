@@ -1,4 +1,4 @@
-#!usr/bin/python3
+# code by Samir Talukder Apurbo 
 # Code to make a simple calculator(GUI) using python3.
 
 from tkinter import *
